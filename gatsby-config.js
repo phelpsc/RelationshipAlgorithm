@@ -1,12 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `The Relationship Algorithm`,
+    author: `Kit Phelps`,
+    description: `Podcast on all things for married couples.`,
+    siteUrl: `https://therelationshipalgorithm.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `kinshipper`, instagram: `kit_at_kinship`,
     },
+    menuLinks: [
+      name:'episodes',
+      link:'/episodes'
+    ],
   },
   plugins: [
     {
