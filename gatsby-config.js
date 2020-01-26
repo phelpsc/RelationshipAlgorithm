@@ -7,10 +7,6 @@ module.exports = {
     social: {
       twitter: `kinshipper`, instagram: `kit_at_kinship`,
     },
-    menuLinks: [
-      name:'episodes',
-      link:'/episodes'
-    ],
   },
   plugins: [
     {
