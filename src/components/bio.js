@@ -37,7 +37,7 @@ const Bio = () => {
     <div
       style={{
         display: `flex`,
-        marginBottom: rhythm(2.5),
+        marginBottom: rhythm(0.5),
       }}
     >
       <Image
@@ -54,11 +54,16 @@ const Bio = () => {
         }}
       />
       <p>
-        Podcast hosted by <strong>{author}</strong> as part of <a href="https://kinshipforcouples.com">Kinship For Couples</a>.
+        Podcast hosted by <strong>{author}</strong> as part of <a href="https://kinshipforcouples.com">Kinship For Couples</a>. You can find me on
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+        <a href={`https://www.instagram.com/kit_at_kinship/`}>
+          Instagram
         </a>
+        .&nbsp; Or on&nbsp;
+        <a href={`https://twitter.com/${social.twitter}`}>
+          Twitter
+        </a>
+        .
       </p>
     </div>
   )

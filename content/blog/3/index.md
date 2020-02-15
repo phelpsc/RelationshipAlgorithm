@@ -3,6 +3,7 @@ title: Episode 3 - The Hoffman Process
 date: "2020-01-29"
 episodeLength: "17 minutes"
 description: "I recently attended a weeklong wellness retreat plus digital detox in California known as The Hoffman Process. The institution that runs the program has been around for over 50 years. Since everything is still fresh in my mind I wanted to share about my personal experience, what it meant to me, how I feel different, and the impact it is having on my relationship."
+episodeUrl: "https://www.podbean.com/media/player/7wjyf-d18cf4?from=yiiadmin&download=1&version=1&skin=1&btn-skin=107&auto=0&share=1&fonts=Helvetica&download=1&rtl=0&pbad=1"
 ---
 
 ### Relevant Links

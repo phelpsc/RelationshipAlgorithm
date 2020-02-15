@@ -3,6 +3,7 @@ title: Episode 1 - Modern Mindset For Your Relationship
 date: "2019-10-27"
 episodeLength: "22 minutes"
 description: "What does it take to have a modern mindset for your relationship? In a marriage with children and chores, how do you find the time for connection? Explore the secrets in our new podcast - The Relationship Algorithm!"
+episodeUrl: "https://www.podbean.com/media/player/3xab3-c4e1d1?from=yiiadmin&download=1&version=1&skin=1&btn-skin=107&auto=0&share=1&fonts=Helvetica&download=1&rtl=0&pbad=1"
 ---
 
 ### Relevant Links

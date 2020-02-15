@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
+import Embed from "../components/embed"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 
@@ -38,6 +39,7 @@ class BlogPostTemplate extends React.Component {
               Episode Runtime: {post.frontmatter.episodeLength}
             </p>
           </header>
+          <Embed title={post.frontmatter.title} episodeUrl={post.frontmatter.episodeUrl} />
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr
             style={{
@@ -98,6 +100,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         episodeLength
         description
+        episodeUrl
       }
     }
   }

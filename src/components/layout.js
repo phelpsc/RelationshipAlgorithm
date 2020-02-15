@@ -39,7 +39,7 @@ class Layout extends React.Component {
               }}
               to={`/episodes`}
             >
-              All Episodes
+              
             </Link>
           </p>
         </div>

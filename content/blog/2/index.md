@@ -3,6 +3,7 @@ title: Episode 2 - The Emotional Pull-up
 date: "2019-11-06"
 episodeLength: "19 minutes"
 description: "In your relationship the ability to have those difficult conversations is critical to the long term strength of your connection. But sometimes those tough conversations are easier avoided than addressing. Today's episode talks about why and how to practice your emotional pull-ups!"
+episodeUrl: "https://www.podbean.com/media/player/cgtqr-c656f1?from=yiiadmin&download=1&version=1&skin=1&btn-skin=107&auto=0&share=1&fonts=Helvetica&download=1&rtl=0&pbad=1"
 ---
 
 ### Relevant Links

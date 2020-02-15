@@ -3,6 +3,7 @@ title: Episode 4 - How Are You Feeling?
 date: "2020-02-05"
 episodeLength: "12 minutes"
 description: "Today we take a closer look at the problems with answering the question 'how are you?' with answers like 'fine' or 'good'. The state of our body and the emotions present in it provide extremely valuable information that we ignore to our own detriment. It's time to challenge ourselves to push past preconceived notions and take advantage of that information."
+episodeUrl: "https://www.podbean.com/media/player/ex928-d275c8?from=yiiadmin&download=1&version=1&skin=1&btn-skin=107&auto=0&share=1&fonts=Helvetica&download=1&rtl=0&pbad=1"
 ---
 
 ### Transcript

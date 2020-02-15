@@ -3,6 +3,7 @@ title: Episode 5 - I Don't Want To Talk About It
 date: "2020-02-12"
 episodeLength: "18 minutes"
 description: "Terry Real is an author and psychotherapist. His book, “I Don’t Want To Talk About It”, is a compelling exploration of the invisible, yet nearly universally shared experience, of men struggling with depression across generations. In this episode, I talk about my own struggle with these feelings and what it means to take action."
+episodeUrl: "https://www.podbean.com/media/player/kks94-d36169?from=yiiadmin&download=1&version=1&skin=1&btn-skin=103&auto=0&share=1&fonts=Georgia&download=1&rtl=0&pbad=1"
 ---
 
 ### Transcript
