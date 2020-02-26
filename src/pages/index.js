@@ -17,7 +17,7 @@ class BlogIndex extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="Home page, recent podcast episodes" />
         <Bio />
-        <Embed title="I Don't Want To Talk About It" episodeUrl="https://www.podbean.com/media/player/kks94-d36169?from=yiiadmin&download=1&version=1&skin=1&btn-skin=103&auto=0&share=1&fonts=Georgia&download=1&rtl=0&pbad=1" />
+        <Embed title="Positive Transformation" episodeUrl="https://www.podbean.com/media/player/3c5iq-d4dd9b?from=yiiadmin&download=1&version=1&skin=1&btn-skin=107&auto=0&share=1&fonts=Helvetica&download=1&rtl=0&pbad=1" />
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
