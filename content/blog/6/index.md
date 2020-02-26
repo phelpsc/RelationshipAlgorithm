@@ -2,7 +2,7 @@
 title: Episode 6 - Positive Transformation
 date: "2020-02-26"
 episodeLength: "17 minutes"
-description: "In this episode I talk about by no good, very bad, rotten day and why the ups and downs of life are different from the type of positive transformation I want to embody in my relationship. In depth discussion about awareness, choice, and the steps to take to practice these critical elements of transformation in your life."
+description: "In this episode I talk about my no good, very bad, rotten day and why the ups and downs of life are different from the type of positive transformation I want to embody in my relationship. In depth discussion about awareness, choice, and the steps to take to practice these critical elements of transformation in your life."
 episodeUrl: "https://www.podbean.com/media/player/3c5iq-d4dd9b?from=yiiadmin&download=1&version=1&skin=1&btn-skin=107&auto=0&share=1&fonts=Helvetica&download=1&rtl=0&pbad=1"
 ---
 
